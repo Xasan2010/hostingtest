@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    background-color: rgb(230, 177, 80)
+    
+}
+label{
+    color: yellow;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+input{
+    border-radius: 15px;
+    width: 200px;height: 20px;
+}
+.ioi{
+    width: 200px;
+    border-radius: 15px;
+    background-color: green;
+    color: antiquewhite;
+}
